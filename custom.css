@@ -1,3 +1,14 @@
 .pt-45 {
   padding-top: 0;
 }
+
+.CollectionToolbar {
+    /*position: -webkit-sticky;*/
+     position: unset; 
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    background: white;
+    box-shadow: 1px 1px #e7e7e7, -1px -1px #e7e7e7;
+    z-index: 2;
+}

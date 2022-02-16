@@ -78,7 +78,7 @@
     </svg></button>
             <span class="Popover__Title Heading u-h4">Sort</span>
           </header>
-	
+  
           
           <div class="Popover__Content">
             <div class="Popover__ValueList" data-scrollable>
@@ -420,7 +420,6 @@
       </main>
 
     <?php include('footer.php'); ?>
-    </div>
 
      <?php include('script.php'); ?>
 </body>

@@ -1,6 +1,3 @@
-
-<!doctype html>
-
 <html class="no-js" lang="en">
  <?php include('header.php'); ?>
   <body class="prestige--v4  template-collection">
@@ -1904,7 +1901,6 @@
       </main>
 
       <?php include('footer.php'); ?>
-    </div>
 
 <?php include('script.php'); ?>
 </body>
